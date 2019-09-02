@@ -13,7 +13,7 @@ O(n) recursively nth times
 
 ## Exercise II
 
-This can be solved via a binary search while splitting the total floors by n
+This can be solved via a binary search while splitting the floors on each pass
 
 mid = floors // 2 # this will split our array down the middle
 we now define an upper and a lower
